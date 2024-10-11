@@ -5,7 +5,7 @@ This project focuses on predicting health insurance premiums using machine learn
 
 The study presents the transformative capacity of machine learning (ML) techniques to minimize manual labor, enhance pricing precision, and visualize data trends for both insurers and policyholders. Our key models, XGBoost and Artificial Neural Networks (ANN), achieved high accuracy, with XGBoost excelling with an adjusted R² of 90.1%.
 
-You can access the full research paper [here](./Farzan_Tashfeen_Paper.pdf).
+You can access the full research paper [here](./Farzan Tashfeen Paper.pdf).
 
 ## Problem Statement
 Health insurance premium pricing is a complex process, influenced by various personal factors such as age, BMI, and lifestyle habits. Traditional methods of determining premiums involve manual effort and may lack precision. This project aims to streamline and enhance the prediction process using machine learning models that offer more accurate and efficient pricing.
@@ -129,4 +129,4 @@ For further details or inquiries about this research, feel free to contact me:
 1. Kaushik, K., Bhardwaj, A., Dwivedi, A. D., & Singh, R. (2022). Machine Learning-Based Regression Framework to predict health insurance premiums.
 2. Hassan, C. A. U., Iqbal, J., Hussain, S., AlSalman, H., & Ullah, S. S. (2021). A computational intelligence approach for predicting medical insurance cost.
 3. Takeshima, T., Keino, S., Aoki, Matsui, T., & Iwasaki, K. (2018). Development of medical cost prediction model based on statistical machine learning.
-4. [Full List of References from the paper](./Farzan_Tashfeen_Paper.pdf).
+4. [Full List of References from the paper](./Farzan Tashfeen Paper.pdf).
