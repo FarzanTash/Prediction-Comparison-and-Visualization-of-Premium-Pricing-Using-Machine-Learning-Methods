@@ -129,4 +129,4 @@ For further details or inquiries about this research, feel free to contact me:
 1. Kaushik, K., Bhardwaj, A., Dwivedi, A. D., & Singh, R. (2022). Machine Learning-Based Regression Framework to predict health insurance premiums.
 2. Hassan, C. A. U., Iqbal, J., Hussain, S., AlSalman, H., & Ullah, S. S. (2021). A computational intelligence approach for predicting medical insurance cost.
 3. Takeshima, T., Keino, S., Aoki, Matsui, T., & Iwasaki, K. (2018). Development of medical cost prediction model based on statistical machine learning.
-4. [Full List of References from your paper](./Farzan_Tashfeen_Final_Paper.pdf).
+4. [Full List of References from the paper](./Farzan_Tashfeen_Final_Paper.pdf).
